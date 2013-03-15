@@ -1,0 +1,17 @@
+"name": "asing-blog",
+  "description": "jekyll blog",
+  "version": "1.0",
+  "homepage": "http://anthonysing.com",
+  "author": {
+    "name": "Anthony Singhavong"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bigthyme/personal-blog"
+  },
+  "devDependencies": {
+    "grunt": "latest",
+    "grunt-coffee": ">= 0.0.6",
+    "grunt-compass": ">= 0.3.7",
+    "grunt-s3": ">= 0.0.9"
+  }
