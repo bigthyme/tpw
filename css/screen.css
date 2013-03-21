@@ -71,6 +71,22 @@ ul.posts {
     font-family: Monaco, "Courier New", monospace;
     font-size: 80%;
   }
+/*****************************************************************************/
+/*
+/* Side Bar
+/*
+/*****************************************************************************/
+
+.social_share_bar {
+  position: fixed;
+  top: 45%;
+  background: rgba(182, 186, 187, 0.7);
+  padding: 5px;
+  left: 0px;
+  border-top-right-radius: 5px;
+  border-bottom-right-radius: 5px;
+  width: 90px;
+}
 
 /*****************************************************************************/
 /*
